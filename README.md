@@ -24,9 +24,9 @@ This file is used within FactoryIO, and it is necessary to move it to the softwa
 > [!IMPORTANT]
 > The programming is stored at the following addresses in Engineering:
 > 
-> H:\Engenharia\DEPARTAMENTO TÉCNICO\[Desenvolvimentos]\[Projeto TOTEN OPTA]\PROGRAMAÇÃO TCP-IP TOTEM OPTA
+> H:\Engenharia\DEPARTAMENTO TÉCNICO\[Desenvolvimentos]\[Projeto TOTEN OPTA]\PROGRAMAÇÃO TCP-IP TOTEM OPTA OFFLINE
 >
-> H:\Engenharia\DEPARTAMENTO TÉCNICO\[Desenvolvimentos]\[OPTA-PROGRAMAÇÕES]\PROGRAMAÇÃO TCP-IP TOTEM OPTA
+> H:\Engenharia\DEPARTAMENTO TÉCNICO\[Desenvolvimentos]\[OPTA-PROGRAMAÇÕES]\PROGRAMAÇÃO TCP-IP TOTEM OPTA OFFLINE
 
 # PT-BR
 
@@ -54,6 +54,6 @@ Esse arquivo é o utilizado dentro do FactoryIO, sendo necessário mover o mesmo
 > [!IMPORTANT]
 > As programações desse projeto estão armazenadas nos seguintes endereços da Engenharia:
 > 
-> H:\Engenharia\DEPARTAMENTO TÉCNICO\[Desenvolvimentos]\[Projeto TOTEN OPTA]\PROGRAMAÇÃO TCP-IP TOTEM OPTA
+> H:\Engenharia\DEPARTAMENTO TÉCNICO\[Desenvolvimentos]\[Projeto TOTEN OPTA]\PROGRAMAÇÃO TCP-IP TOTEM OPTA OFFLINE
 >
-> H:\Engenharia\DEPARTAMENTO TÉCNICO\[Desenvolvimentos]\[OPTA-PROGRAMAÇÕES]\PROGRAMAÇÃO TCP-IP TOTEM OPTA
+> H:\Engenharia\DEPARTAMENTO TÉCNICO\[Desenvolvimentos]\[OPTA-PROGRAMAÇÕES]\PROGRAMAÇÃO TCP-IP TOTEM OPTA OFFLINE

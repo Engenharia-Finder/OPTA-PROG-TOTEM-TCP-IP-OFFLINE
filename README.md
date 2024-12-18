@@ -11,7 +11,16 @@ The programming in the title above is the original programming to make the MODBU
 
 ### Pick & Place (TOTEM OPTA TCP-IP)
 This file is used within FactoryIO, and it is necessary to move it to the software's scenes folder.
-
+#
+#
+> [!TIP]
+> - In FactoryIO, after opening the scene, select the "Modbus TCP/IP Client" option
+>
+> - In "Host" enter the IP 192.168.0.88 (this IP is the same as the OPTA programming)
+>
+> - The last setting is to set the computer with a fixed IP of 192.168.0.89
+#
+#
 > [!IMPORTANT]
 > The programming is stored at the following addresses in Engineering:
 > 
@@ -32,7 +41,16 @@ A programação no título acima é a programação original para fazer a comuni
 
 ### Pick & Place (TOTEM OPTA TCP-IP)
 Esse arquivo é o utilizado dentro do FactoryIO, sendo necessário mover o mesmo para a pasta de cenas do software.
-
+#
+#
+> [!TIP]
+> - No software FactoryIO, depois de abrir a cena, selecione a opção "Modbus TCP/IP Client";
+>
+> - Na configuração "Host" coloque o IP 192.168.0.88 (esse IP é o mesmo configurado na programação do OPTA);
+>
+> - A última configuração é colocar um IP fixo no computador com o endereço 192.168.0.89
+#
+#
 > [!IMPORTANT]
 > As programações desse projeto estão armazenadas nos seguintes endereços da Engenharia:
 > 
